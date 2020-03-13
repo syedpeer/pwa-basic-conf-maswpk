@@ -1,3 +1,5 @@
+import './styles.css';
+
 class PWAConfApp {
   constructor() {
     this.speakersDiv = document.querySelector('.speakers');
